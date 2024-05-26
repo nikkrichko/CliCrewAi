@@ -1,0 +1,10 @@
+create murrdle puzzle for next configuration:
+weapons = 4
+suspects = 4
+locations = 4
+motives = 4
+
+london 2020, gntelman drug wars. gentelman and arictocrats split drug teritory betwen gentelman, corrupt police and gypsies gangs
+
+
+
